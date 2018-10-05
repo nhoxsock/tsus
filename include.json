@@ -1,0 +1,17 @@
+{
+    "SETUP": {
+        "index": {
+            "header": [
+                "header/h-7"
+            ],
+            "body": [
+                "slider/s-1",
+				"form/f-2",
+				"courses"
+            ],
+            "footer": [
+                "footer/f-4"
+            ]
+        }
+    }
+}

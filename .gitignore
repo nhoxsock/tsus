@@ -1,11 +1,10 @@
-/vendor
 /node_modules
 /public/storage
 /.idea/
 Homestead.yaml
 Homestead.json
-package-lock.json
 .env
+package-lock.json
 
 # @BAONGUYEN
 
@@ -25,6 +24,7 @@ log.txt
 .versions/
 tmp/
 temp/
+dist/
 www/
 wwwroot/
 
